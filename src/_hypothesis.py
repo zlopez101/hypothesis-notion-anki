@@ -3,7 +3,7 @@ import time
 from datetime import datetime, timedelta
 
 from requests import HTTPError
-from utils import create_authorization, get_yesterday_in_ms_since_epoch
+from base_utils.utils import create_authorization, get_yesterday_in_ms_since_epoch
 
 
 def get_new_annotations(user: str) -> requests.Response:
@@ -37,8 +37,8 @@ def get_new_annotations(user: str) -> requests.Response:
 
 
 def sort_annotations(r: requests.Response) -> dict:
-    response = r.json()['rows'] # get the annotations
-    
+    response = r.json()["rows"]  # get the annotations
+
     pass
 
 
