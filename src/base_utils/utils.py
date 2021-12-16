@@ -23,7 +23,7 @@ def get_key_and_endpoint(api: str) -> Tuple[str, str]:
         Tuple[str, str]: (key, endpoint)
     """
     try:
-        with open("../keys.json", "r") as fp:
+        with open("keys.json", "r") as fp:
             data = json.load(fp)
             return data[api].get("api-key"), data[api].get("baseUrl")
     except KeyError:

@@ -2,7 +2,7 @@ from src.base_utils.utils import *
 
 
 def test_get_key():
-    key, _ = get_key_and_endpoint("notion")
+    key, _ = get_key_and_endpoint("Notion")
     assert isinstance(key, str)
 
 
