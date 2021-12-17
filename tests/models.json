@@ -1,0 +1,479 @@
+{
+    "page": {
+        "archived": false,
+        "cover": null,
+        "created_time": "2021-12-16T20:19:00.000Z",
+        "icon": null,
+        "id": "96a46207-e9b9-45dd-bc56-19c8f5f0d6d6",
+        "last_edited_time": "2021-12-16T22:14:00.000Z",
+        "object": "page",
+        "parent": {
+            "page_id": "4d7ec42e-a2c6-46a7-b3ed-f5137cdeb3e5",
+            "type": "page_id"
+        },
+        "properties": {
+            "title": {
+                "id": "title",
+                "title": [
+                    {
+                        "annotations": {
+                            "bold": false,
+                            "code": false,
+                            "color": "default",
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false
+                        },
+                        "href": null,
+                        "plain_text": "Introduction to Azure Fundamentals",
+                        "text": {
+                            "content": "Introduction to Azure Fundamentals",
+                            "link": null
+                        },
+                        "type": "text"
+                    }
+                ],
+                "type": "title"
+            }
+        },
+        "url": "https://www.notion.so/Introduction-to-Azure-Fundamentals-96a46207e9b945ddbc5619c8f5f0d6d6"
+    },
+    "block": {
+        "paragraph": {
+            "archived": false,
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "has_children": false,
+            "id": "ff99595d-c7d6-448f-ad40-cecbc9d7c5e2",
+            "last_edited_time": "2021-12-17T21:19:00.000Z",
+            "object": "block",
+            "paragraph": {
+                "text": [
+                    {
+                        "annotations": {
+                            "bold": false,
+                            "code": false,
+                            "color": "default",
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false
+                        },
+                        "href": null,
+                        "plain_text": "Austin",
+                        "text": {
+                            "content": "Austin",
+                            "link": null
+                        },
+                        "type": "text"
+                    }
+                ]
+            },
+            "type": "paragraph"
+        },
+        "divider": {
+            "archived": false,
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "divider": {},
+            "has_children": false,
+            "id": "c962a99b-da06-4818-8b8a-3042dc885916",
+            "last_edited_time": "2021-12-16T22:12:00.000Z",
+            "object": "block",
+            "type": "divider"
+        },
+        "heading_3": {
+            "archived": false,
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "has_children": false,
+            "heading_3": {
+                "text": [
+                    {
+                        "annotations": {
+                            "bold": false,
+                            "code": false,
+                            "color": "default",
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false
+                        },
+                        "href": null,
+                        "plain_text": "What is capital city of Texas?",
+                        "text": {
+                            "content": "What is capital city of Texas?",
+                            "link": null
+                        },
+                        "type": "text"
+                    }
+                ]
+            },
+            "id": "089b66e4-7dec-4a9e-8ea2-66fbe157acca",
+            "last_edited_time": "2021-12-16T22:12:00.000Z",
+            "object": "block",
+            "type": "heading_3"
+        }
+    },
+    "page_contents_response": [
+        {
+            "object": "block",
+            "id": "f98ed9c2-ebe0-4d60-b360-ea4970655364",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "heading_2",
+            "heading_2": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Learning objectives",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Learning objectives",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "460c426d-122f-498a-9c43-8146281288e0",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "paragraph",
+            "paragraph": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "After you complete this module, you'll be able to:",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "After you complete this module, you'll be able to:",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "0478fa63-27b5-4175-a7de-ee1c03dd273c",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Describe the basic concepts of cloud computing.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Describe the basic concepts of cloud computing.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "e54e3414-b012-4149-a5e4-c168faeb6a0d",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Determine whether Azure is the right solution for your business needs.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Determine whether Azure is the right solution for your business needs.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "3376efcd-6e0e-4c41-87de-a8463f9f47ed",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Differentiate between the different methods of creating an Azure subscription.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Differentiate between the different methods of creating an Azure subscription.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "4315e70e-497a-443c-ad48-1e809cdc4544",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "paragraph",
+            "paragraph": {
+                "text": []
+            }
+        },
+        {
+            "object": "block",
+            "id": "50f264d9-3e01-4603-bdcc-06e249cd94b6",
+            "created_time": "2021-12-16T20:19:00.000Z",
+            "last_edited_time": "2021-12-16T20:26:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "heading_3",
+            "heading_3": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Why use cloud computing? ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Why use cloud computing? ",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "b342e42e-2b3e-4719-b28c-d7a188ee34d8",
+            "created_time": "2021-12-16T20:26:00.000Z",
+            "last_edited_time": "2021-12-16T20:26:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Lower operating costs",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Lower operating costs",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "a6e8fd6c-eb19-46f3-ab01-c484d31fc044",
+            "created_time": "2021-12-16T20:26:00.000Z",
+            "last_edited_time": "2021-12-16T20:26:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "run infrastructure more efficiently",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "run infrastructure more efficiently",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "76ff8708-5758-414a-98df-8ef9cef9598d",
+            "created_time": "2021-12-16T20:26:00.000Z",
+            "last_edited_time": "2021-12-16T22:12:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "scale needs as business changes or grows",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "scale needs as business changes or grows",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "04ee11f4-dcfe-4aa3-b265-476110252e13",
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "last_edited_time": "2021-12-16T22:12:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "paragraph",
+            "paragraph": {
+                "text": []
+            }
+        },
+        {
+            "object": "block",
+            "id": "089b66e4-7dec-4a9e-8ea2-66fbe157acca",
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "last_edited_time": "2021-12-16T22:12:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "heading_3",
+            "heading_3": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "What is capital city of Texas?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "What is capital city of Texas?",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "object": "block",
+            "id": "c962a99b-da06-4818-8b8a-3042dc885916",
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "last_edited_time": "2021-12-16T22:12:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "divider",
+            "divider": {}
+        },
+        {
+            "object": "block",
+            "id": "ff99595d-c7d6-448f-ad40-cecbc9d7c5e2",
+            "created_time": "2021-12-16T22:12:00.000Z",
+            "last_edited_time": "2021-12-17T21:19:00.000Z",
+            "has_children": false,
+            "archived": false,
+            "type": "paragraph",
+            "paragraph": {
+                "text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Austin",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Austin",
+                        "href": null
+                    }
+                ]
+            }
+        }
+    ]
+}

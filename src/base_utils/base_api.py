@@ -17,6 +17,15 @@ class API:
         return {"Authorization": f"Bearer {self.key}"}
 
     def _get(self, endpoint: str, params: dict = {}) -> dict:
+        """
+
+        Args:
+            endpoint (str): [description]
+            params (dict, optional): [description]. Defaults to {}.
+
+        Returns:
+            dict: [description]
+        """
         try:
             r = requests.get(
                 self.base_url + endpoint, params=params, headers=self.headers

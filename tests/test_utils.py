@@ -8,6 +8,7 @@ def test_get_key():
 
 def test_time():
     """Test might fail at the end of the month"""
+    pass
     # get today and yesterday in datetime format, func returns ms since epoch
     # now = datetime.now()
     # yesterday = datetime.fromtimestamp(get_yesterday_in_ms_since_epoch() / 1000)
