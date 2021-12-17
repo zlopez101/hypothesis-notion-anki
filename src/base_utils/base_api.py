@@ -1,6 +1,6 @@
 import requests
 from .utils import get_key_and_endpoint
-from requests import Response
+from requests import HTTPError
 
 
 class API:
@@ -16,10 +16,12 @@ class API:
         """
         return {"Authorization": f"Bearer {self.key}"}
 
-    def _get(self, endpoint: str, params: dict = {}) -> Response:
+    def _get(self, endpoint: str, params: dict = {}) -> dict:
         try:
-            return requests.get(
+            r = requests.get(
                 self.base_url + endpoint, params=params, headers=self.headers
             )
-        except:
+            r.raise_for_status()
+            return r.json()
+        except HTTPError:
             print("there was an error!")
