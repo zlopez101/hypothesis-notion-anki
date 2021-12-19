@@ -1,3 +1,3 @@
-from src.notion.notion import Notion
+from src.hna.notion.notion import Notion
 
 notion = Notion()

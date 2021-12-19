@@ -1,6 +1,6 @@
-from src.notion.notion import Notion
+from src.hna.notion.notion import Notion
 from requests import Response
-from src.notion.models import Block
+from src.hna.notion.models import Block
 
 
 def test_API(mock_response):

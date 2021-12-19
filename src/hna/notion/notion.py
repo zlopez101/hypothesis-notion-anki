@@ -1,5 +1,5 @@
 from typing import Tuple, List
-from src.base_utils.base_api import API
+from ..base_utils.base_api import API
 from more_itertools import sliding_window
 
 from .models import *
